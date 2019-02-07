@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tell me a Story/HelpViewController.swift"
+            timestampString = "544902179.084183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tell me a Story/CreateStoryViewController.swift"
+            timestampString = "544895093.455568"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "CreateStoryViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tell me a Story/OpenStoryViewController.swift"
+            timestampString = "543921413.733534"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "OpenStoryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tell_me_a_Story.OpenStoryViewController.URLstring.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Tell me a Story"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Tell%20me%20a%20Story/Tell%20me%20a%20Story/OpenStoryViewController.swift"
+                  timestampString = "541879867.2204781"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tell_me_a_Story.OpenStoryViewController.URLstring.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Tell me a Story"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Tell%20me%20a%20Story/Tell%20me%20a%20Story/OpenStoryViewController.swift"
+                  timestampString = "541879867.223263"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tell_me_a_Story.OpenStoryViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tell_me_a_Story.OpenStoryViewController"
+                  moduleName = "Tell me a Story"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Tell%20me%20a%20Story/Tell%20me%20a%20Story/OpenStoryViewController.swift"
+                  timestampString = "541879867.225415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tell_me_a_Story.OpenStoryViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tell_me_a_Story.OpenStoryViewController&gt;"
+                  moduleName = "Tell me a Story"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Tell%20me%20a%20Story/Tell%20me%20a%20Story/OpenStoryViewController.swift"
+                  timestampString = "541879867.227394"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tell me a Story/CreateStoryViewController.swift"
+            timestampString = "544895093.45628"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "321"
+            endingLineNumber = "321"
+            landmarkName = "finished()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
